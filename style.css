@@ -1,0 +1,12 @@
+.bgcolor{
+    background-image: url("https://i.redd.it/t7win735kri61.gif");
+    background-size: contain;
+}
+
+.articlecolor{
+    background-image: linear-gradient(rgb(77, 67, 70), rgb(58, 37, 45));
+}
+
+.hcolor{
+    background-image: linear-gradient(rgb(77, 67, 70), rgb(58, 37, 45)), rgb(77, 67, 70);
+}
