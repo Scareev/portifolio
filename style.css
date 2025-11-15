@@ -1,10 +1,7 @@
 
-.bodyfont{
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.articlecolor{
-    background-color: #231942;
+.bgimg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("fundo.png");
+    background-size: cover; 
 }
 
 .hcolor{
@@ -12,5 +9,19 @@
 }
 
 .headercolor{
-    background-color: #9f86c0;
+    background-image: linear-gradient(to top, rgb(68, 33, 33), rgba(255,0,0,0), rgba(255,0,0,0));
+}
+
+.footercolor{
+    background-image: linear-gradient(to bottom, rgb(68, 33, 33), rgba(255,0,0,0), rgba(255,0,0,0));
+}
+
+.glass-blur {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+.row{
+    align-items: center;
 }
