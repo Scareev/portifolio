@@ -1,12 +1,16 @@
-.bgcolor{
-    background-image: url("https://i.redd.it/t7win735kri61.gif");
-    background-size: contain;
+
+.bodyfont{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .articlecolor{
-    background-image: linear-gradient(rgb(77, 67, 70), rgb(58, 37, 45));
+    background-color: #231942;
 }
 
 .hcolor{
-    background-image: linear-gradient(rgb(77, 67, 70), rgb(58, 37, 45)), rgb(77, 67, 70);
+    background-color: #5e548e;
+}
+
+.headercolor{
+    background-color: #9f86c0;
 }
