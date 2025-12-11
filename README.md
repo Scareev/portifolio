@@ -13,21 +13,9 @@ Portfólio pessoal moderno e responsivo desenvolvido com HTML5, CSS3 e Bootstrap
 ## 🛠️ Tecnologias
 
 - HTML5
-- CSS3 (Animações, Flexbox, Grid)
-- Bootstrap 5.3
-- JavaScript (Bootstrap components)
-
-## 🚀 Deploy
-
-### GitHub Pages
-1. Faça push para o branch `main`
-2. Vá em Settings > Pages
-3. Selecione "Deploy from a branch"
-4. Escolha `main` branch / `/ (root)`
-
-### Vercel
-1. Conecte seu repositório no [vercel.com](https://vercel.com)
-2. O deploy será automático a cada push
+- CSS3 
+- Bootstrap 
+- JavaScript 
 
 ## 📧 Contato
 
