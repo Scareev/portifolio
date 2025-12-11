@@ -2,14 +2,6 @@
 
 Portfólio pessoal moderno e responsivo desenvolvido com HTML5, CSS3 e Bootstrap.
 
-## 🌟 Características
-
-- ✨ Design moderno com efeitos glassmorphism
-- 🎭 Animações suaves e interativas
-- 📱 Totalmente responsivo
-- 🎨 Gradientes animados e efeitos visuais
-- 💫 Efeito parallax no background
-
 ## 🛠️ Tecnologias
 
 - HTML5
